@@ -1,0 +1,31 @@
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.exe
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.deps.json
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.runtimeconfig.json
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.runtimeconfig.dev.json
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Riemers Shooter.pdb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.AssemblyInfo.cs
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.csproj.CopyComplete
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.dll
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.pdb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\obj\Debug\netcoreapp3.1\Riemers Shooter.genruntimeconfig.cache
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\cannon.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\carriage.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\myFont.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\rocket.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\smoke.xnb
+C:\Users\Dan\source\repos\Riemers Shooter\Riemers Shooter\bin\Debug\netcoreapp3.1\Content\ground.xnb
